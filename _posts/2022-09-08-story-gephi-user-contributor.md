@@ -2,9 +2,9 @@
 layout: post
 title: My story as a Gephi user and contributor
 permalink: /story-gephi-user-contributor/
-published: true
-date_readable:               Sept 08, 2022
-last_modified_at_readable:   Sept 08, 2022
+published: false
+date_readable: 'Sept 08, 2022'
+last_modified_at_readable: 'Sept 08, 2022'
 ---
 
 *Looking back at 12 years of involvement with this great software*
