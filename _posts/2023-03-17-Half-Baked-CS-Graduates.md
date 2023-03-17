@@ -1,7 +1,7 @@
 ---
 published: true
 title: 2023-03-17-Half-Baked-CS-Graduates.md
-date: 2023-
+date: 2023-03-17
 ---
 
 Being a half-baked Computer Science graduate is quite common. In fact, it is expected that you will be half-baked.
