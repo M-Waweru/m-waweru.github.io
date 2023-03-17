@@ -1,6 +1,6 @@
 ---
 published: true
-title: Half Baked CS Graduates
+title: 2023-03-17-Half-Baked-CS-Graduates.md
 date: 2023-
 ---
 
@@ -62,8 +62,3 @@ In fact, I purposefully built a generic project instead of submitting Agrarian, 
 ## Conclusion
 
 Universities are oblivious to the goldmine that they sit on. They have young people with a thirst for knowledge and a hunger to create change. They are not corrupted by the harsh nature of the outside world, making them open to see the world for what it could be and not what it is. Don't be part of the problem that crashes these dreams. There is a reason why universities like Stanford, Harvard and MIT have produced so many changemakers like Bill Gates, Mark Zuckerberg and so on. They didn't ignore their students or crash their dreams, they embrace them and made them know that it is possible to change the world with an idea. The catch is that you have build it. As a society, we need this mindset urgently. All you need to do is champion it and universities are best positioned to make this happen.
-
-
-
-
-
