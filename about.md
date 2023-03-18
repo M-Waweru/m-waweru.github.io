@@ -2,29 +2,44 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-I am a social scientist and Java developer with a passion for discovering insights in big texts, networks and in unstructured data in general.
+I am the Product Lead at Shukran, having a background in Computer Science and on a mission to learn all I can about software engineering, product development and startup-building so I can change the world.
 
-### Work in social science
+### Work
 
-* In my 20s for my PhD under the guidance of [Philippe Fontaine](https://isp.cnrs.fr/?project=fontaine-philippe), I digged in archives (boxes of documents! plenty of boxes!) to write a contextualized [history of economics and biology in post-WWII USA](https://tel.archives-ouvertes.fr/tel-00372263).
-* In my 30s under the guidance of [Paul Wouters](https://scholar.google.fr/citations?user=ZHF-hVMAAAAJ&hl=en&oi=ao) and [Ale Smidts](https://orcid.org/0000-0002-6699-1172), I used scientometric data and survey data to [map the field of neuroeconomics](https://www.nature.com/articles/nrn3354) and related disciplines. I relied a lot on [Gephi](https://gephi.org/), a software for the visualization of networks.
-* Now in my 40s and a professor at [em lyon business school](https://em-lyon.com/en), my goal is to continue using texts and networks to shed different and interesting lights on social science issues, AND to make the tools I develop accessible to the public. This is the sense of [Nocodefunctions](https://nocodefunctions.com/).
+* I am currently the Product Lead and Co-founder of **Shukran**, a digital tipping platform that ensures the most deserving service workers are rewarded and increase the tipping culture. We are based in Nairobi and we offer a platform that allows tippers to appreciate great service at restaurants, salons and any other service workers they choose.
 
-### Programming
+* Shukran is under **Impact Africa Network**, which is a startup studio based in Nairobi that ensures that young talented Africans can participate in the digital transformation of Africa as creators and owners. I joined as an innovation fellow in early 2021 and I haven't looked back.
 
-Working with bigger texts and networks, I switched from using Excel to Java in 2011. The tools I created are scattered in academic publications, private and public Github repos, and websites which emerged and died. Examples of contributions:
 
-* Umigon, best of class [sentiment analysis for social media](https://nocodefunctions.com/umigon/sentiment_analysis_tool.html).
-* [A method to map Twitter fields, at scale](https://management-aims.com/index.php/mgmt/article/view/4245/10254).
-* [Gephi plugins](https://gephi.org/plugins/#/browse/search/levallois) and [Gephi tutorials](https://seinecle.github.io/gephi-tutorials/).
+### Projects
 
-### Today
+* **Shukran**: This is the first product that I have taken to market and gotten real users for. I was involved in market research, design, development, talking to users and now running the operations. It has scratched an itch to innovation and build startups. For information on our [website](https://shukran.co/)
 
-I am now trying to increase the public impact of my academic work. In 2021 I started developping [Nocodefunctions](https://nocodefunctions.com/). It is a platform offering the tools I developed over the years, for non technical users and for free. It will also be the host and training ground for the new functions I am developing in my current academic projects.
+* **Agrarian**: An agritech IoT solution for farmers to collect and analyse farm conditions and make data-driven farming decisions. Worked as the Project Manager and President of Enactus. Find more information about Agrarian [here](https://strathmore.edu/news/enactus-strathmore-to-represent-kenya-in-the-enactus-global-competition-set-for-september/)
 
+* **Blockchain voting system**: We wanted to replace the manual voting system at Strathmore University with a digital, censorship-resistant system. It was quite buggy but we pitched it to the Student Council. You can find the repo [here](https://github.com/M-Waweru/truffledapping)
+
+* **Crowdsourcing identification of fake news on Twitter**: Fake news and misinformation cannot be solved by AI because misinformation is inherently an experiential and subjective thing. The idea was to use the Wisdom of the Crowds to decide what is true and what is false. You can find the repo [here](https://github.com/M-Waweru/Crowdsourcing-Ranking-of-Tweets)
+
+
+### Passions
+
+* **Journalling**: I have been doing it chronically since the start of the COVID-19 pandemic in 2020. Now I cannot stop and it has led to this blog.
+
+* **Hiking**: Nothing beats a good mountain-climb and the euphoria of standing at the top to marvel at your accomplishment and the views.
+
+* **Digital gardening**: Note-taking is great but it is useless if you don't reference them to take action. With digital gardening on [Obsidian](https://obsidian.md/), I have created notes that I reference from time to time to ground me on my mission and purpose. I have also shared some notes at the [Mathnuscripts](https://mathnuscripts.markbase.xyz/Home). It contains draft essays that will eventually come here.
+
+
+### Philosophy
+
+> _For I do, so I must write. For I write, so I must do._
+
+May this blog help you as much as it helps me.
 
 ### Contact me
 
-[admin@clementlevallois.net](mailto:admin@clementlevallois.net)
+[mathenge2waweru@gmail.com](mailto:mathenge2waweru@gmail.com)
