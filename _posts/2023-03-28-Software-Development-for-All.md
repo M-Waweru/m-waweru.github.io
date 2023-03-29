@@ -1,5 +1,7 @@
 ---
 published: true
+title: Software Development for All
+date: 2023-03-28T00:00:00.000Z
 ---
 # Software Development for All
 
@@ -23,4 +25,4 @@ With better tools and development experience, we will get more creative products
 
 Software has more to offer and making it's development more accessible for people to solve problems is a good development. However, additional work in the discovery and development of new and emerging technologies is necessary, especially by people who understand the fundamental and primary concepts of sofware development and how computers work. We still need those people. We should empower the professors, hobbyists, researchers, renegades and rebels to take the computing industry to new heights. 
 
-The two poles are new and emerging technology and making software development accessible to all. That's a good set of extremes to maintain. 
+The two poles are new and emerging technology and making software development accessible to all. That's a good set of extremes to maintain.
