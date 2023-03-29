@@ -1,5 +1,7 @@
 ---
 published: true
+title: There is Nothing Better to Do
+date: 2023-03-28T00:00:00.000Z
 ---
 # There is Nothing Better to Do
 
