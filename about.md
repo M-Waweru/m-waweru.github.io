@@ -16,7 +16,7 @@ I am the Product Lead at Shukran, with a background in Computer Science from Str
 
 ### Projects
 
-* **Shukran**: This is the first product that I have taken to market and gotten real users for. I was involved in market research, design, development, talking to users and now running the operations. It has scratched an itch to innovation and build startups. For information on our [website](https://shukran.co/)
+* **Shukran**: This is the first product that I have taken to market and gotten real users for. I was involved in market research, design, development, talking to users and now running the operations. It has scratched an itch for innovation and building startups. For information on our [website](https://shukran.co/)
 
 * **Agrarian**: An agritech IoT solution for farmers to collect and analyse farm conditions and make data-driven farming decisions. Worked as the Project Manager and President of Enactus Strathmore. Find more information about Agrarian [here](https://strathmore.edu/news/enactus-strathmore-to-represent-kenya-in-the-enactus-global-competition-set-for-september/)
 
@@ -29,9 +29,9 @@ I am the Product Lead at Shukran, with a background in Computer Science from Str
 
 * **Journalling**: I have been doing it chronically since the start of the COVID-19 pandemic in 2020. Now I cannot stop and it has led to this blog.
 
-* **Hiking**: Nothing beats a good mountain-climb and the euphoria of standing at the top to marvel at your accomplishment and the views.
+* **Hiking**: Nothing beats a good mountain-climb and the euphoria of standing at the top to marvel at your accomplishment.
 
-* **Digital gardening**: Note-taking is great but it is useless if you don't reference them to take action. With digital gardening on [Obsidian](https://obsidian.md/), I have created notes that I reference from time to time to ground me on my mission and purpose. I have also shared some notes at the [Mathnuscripts](https://mathnuscripts.markbase.xyz/Home). It contains draft essays that will eventually come here.
+* **Digital gardening**: Note-taking is great but it is useless if you don't reference them to take action. With digital gardening on [Obsidian](https://obsidian.md/), I have created notes that I reference from time to time to ground me on my mission and purpose. It has become a great idea factory where most of my blogs will come from. I have also shared some notes at the [Mathnuscripts](https://mathnuscripts.markbase.xyz/Home). It contains draft essays that will eventually come here.
 
 
 ### Philosophy
