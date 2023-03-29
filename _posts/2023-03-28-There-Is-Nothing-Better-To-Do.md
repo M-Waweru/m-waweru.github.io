@@ -1,10 +1,8 @@
 ---
 published: true
 title: There is Nothing Better to Do
-date: 2023-03-28T00:00:00.000Z
+date: {}
 ---
-# There is Nothing Better to Do
-
 Africa has untapped potential that we are only at the cusp of realising. Even after all the pillaging and destruction that has been caused by colonialism, corruption and outright extraction, we are still booming with natural resources, a young population and a bust of energy and ingenuity. Africans have always shown great creativity in how they deal with their problems. We find ways to survive and some even thrive. From agriculture to services, finance to hospitality, we have found unique ways to capitalise on each one of them.
 
 We live in an interesting time, where globalisation and technology have come together to give unlimited access to talent, information and capital. Anyone can learn anything, talk to anyone and build anywhere. Africa is becoming no exception to this rule. As the last frontier, we are opening up to the world stage just like Asia did in the 80s. We are becoming the next place to do business and create newfound wealth. It is a gold-rush and you should not miss it, especially if you are a son of the soil. 
