@@ -1,10 +1,8 @@
 ---
 published: true
 title: Software Development for All
-date: 2023-03-28T00:00:00.000Z
+date: {}
 ---
-# Software Development for All
-
 The art of building software is going to get even better. Thoughts inspired by this [tweet thread](https://twitter.com/amasad/status/1595557790063304704). 
 
 With more tools that increase developer productivity such as AI, bounties and modular and monetizable code, we will see a lot of growth in what people can do with software. I had the elitist view that only developers should have the ability to build software products. The higher your grasp of programming concepts like variables, encapsulation and abstraction, the higher the status and respect you deserve to build software. However, building software can be tedious for many and time-consuming for those who engage in it. It requires a lot of mental effort to write a piece of code that can produce the desired output. This is excluding testing, scaling and even having a problem for that piece of code to solve. 
