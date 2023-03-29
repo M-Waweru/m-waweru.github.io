@@ -1,7 +1,7 @@
 ---
 published: true
 title: Software Development for All
-date: {}
+date: 2023-03-28T00:00:00.000Z
 ---
 The art of building software is going to get even better. Thoughts inspired by this [tweet thread](https://twitter.com/amasad/status/1595557790063304704). 
 
