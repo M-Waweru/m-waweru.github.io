@@ -15,7 +15,7 @@ Imagine being able to build a software product in a couple of lines, a click of 
 
 For example, I have recently been frustrated at how there is no out-of-the-box boilerplate that allows you to build SaaS products from the ground-up. I see how this can work with Django, React, Docker and AWS, however, most people cannot do what developers do and they are left out of such an essential skill as software development. 
 
-Most people should just be product managers and have an army of AI tools, modular code, APIs and services that they can seamlessly integrate develop software products.
+Most people should just be product managers and have an army of AI tools, modular code, APIs and services that they can seamlessly integrate to develop software products.
 
 ## Fundamentals are still the key
 
