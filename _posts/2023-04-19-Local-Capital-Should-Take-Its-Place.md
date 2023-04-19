@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+date: 2023-04-19T00:00:00.000Z
 ---
 I read a thread the other day that was very shocking and it hit me differently. The author described that the funding that is pouring into Africa is simply a test to see if there is a market on the continent. Once the test is successful, many of these VCs and investors will pour their money into Africa and buy up local companies, talent and own all the equity. 
 
