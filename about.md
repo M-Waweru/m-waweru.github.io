@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-I am the Product Lead at Shukran, with a background in Computer Science from Strathmore University. I am on a mission to learn all I can so I can change the world. My expertise are in software engineering, product development and startup-building.
+I am the Co-founder and Product Lead at Shukran, with a background in Computer Science from Strathmore University. I am on a mission to learn all I can so I can change the world. My expertise are in software development, product development and startup-building.
 
 ### Work
 
