@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+date: 2023-05-14T00:00:00.000Z
 ---
 Becoming a man is not an event but a never-ending process[^1]. It has become very common for people to describe what it means to be a 'real' man. In this essay, I will explore this topic from the perspective of a male on his journey to become a man. 
 
