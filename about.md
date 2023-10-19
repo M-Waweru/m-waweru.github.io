@@ -31,7 +31,7 @@ I am the Co-founder and Product Lead at Shukran, with a background in Computer S
 
 * **Hiking**: Nothing beats a good mountain-climb and the euphoria of standing at the top to marvel at your accomplishment.
 
-* **Digital gardening**: Note-taking is great but it is useless if you don't reference them to take action. With digital gardening on [Obsidian](https://obsidian.md/), I have created notes that I reference from time to time to ground me on my mission and purpose. It has become a great idea factory where most of my blogs will come from. I have also shared some notes at the [Mathnuscripts](https://mathnuscripts.markbase.xyz/Home). It contains draft essays that will eventually come here.
+* **Digital gardening**: Note-taking is great but it is useless if you don't reference them to take action. With digital gardening on [Obsidian](https://obsidian.md/), I have created notes that I reference from time to time to ground me on my mission and purpose. It has become a great idea factory where most of my blogs will come from. I have also shared some notes at the [Mathnuscripts](https://mathnuscripts.com). It contains draft essays that will eventually come here.
 
 
 ### Philosophy
