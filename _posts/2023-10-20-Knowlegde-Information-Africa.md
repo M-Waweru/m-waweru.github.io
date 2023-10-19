@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # Knowledge, Information and Africa
 
