@@ -3,8 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-# 🧠 About Me
-
 I’m an **innovator, venture-builder, and leader** at the core. I love solving real-world problems with technology—especially ones that can scale impact across communities. My mantra is:
 
 > **Express yourself. Contribute to humanity. Tell the story.**
@@ -55,6 +53,7 @@ AI can’t solve misinformation because truth is often contextual and subjective
 - **Journaling:** I started journaling daily during the 2020 pandemic and haven’t stopped since. It grounds me, clarifies my thinking, and feeds my blog.
 - **Hiking:** Mountain peaks bring clarity. I live for the climb—and the stillness at the summit.
 - **Digital Gardening:** I use [Obsidian](https://obsidian.md/) to build a personal knowledge system I refer to constantly. My essays grow out of this soil and are shared at [Mathnuscripts](https://mathnuscripts.com).
+- **Motorcycling:** I ride a **Zontes 250V (250cc)**. Few things compare to the freedom of the open road and the clarity it brings.
 
 ---
 
