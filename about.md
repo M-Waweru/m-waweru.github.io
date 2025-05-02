@@ -3,39 +3,69 @@ layout: page
 title: About
 permalink: /about/
 ---
+# 🧠 About Me
 
-I am the Co-founder and Product Lead at Shukran, with a background in Computer Science from Strathmore University. I am on a mission to learn all I can so I can change the world. My expertise are in software development, product development and startup-building.
+I’m an **innovator, venture-builder, and leader** at the core. I love solving real-world problems with technology—especially ones that can scale impact across communities. My mantra is:
 
-### Work
+> **Express yourself. Contribute to humanity. Tell the story.**
 
-* I was previously the Co-founder and Product Lead at [**Shukran**](https://shukran.co), a digital tipping and financial services platform that grows incomes and financial inclusion among service workers in Africa's hospitality industry. We launched in January 2023 and I led the team to product-market fit by January 2024. We grew by over 5,500% in 2024 alone, processing over $250K in tips overall, 4000 tippers, 3800 service workers onboarded and $4,500 in MRR by the time I left. Shukran is incubated under [**Impact Africa Network**](https://impactafrica.network).
+My expertise spans **market research**, **software development** (Django, some React), **business development**, and **leading teams** to do their best work.
 
-### Projects
+---
 
-* **Shukran**: This is the first successful product that I have taken to market and gotten real users for. I was involved from the very beginning - doing market research, design, software development, talking to users, closing customers and running the entire operation as the team lead. It scratched an itch for innovation and building startups. For information on our [website](https://shukran.co/)
+## 💼 Work
 
-* **Agrarian**: An agritech IoT solution for farmers to collect and analyse farm conditions and make data-driven farming decisions. Worked as the Project Manager and President of Enactus Strathmore. Find more information about Agrarian [here](https://strathmore.edu/news/enactus-strathmore-to-represent-kenya-in-the-enactus-global-competition-set-for-september/)
+I was previously the **Co-founder and Product Lead at [Shukran](https://shukran.co)**—a digital tipping and financial services platform that increases income and financial inclusion for service workers in Africa’s hospitality industry.
 
-* **Blockchain voting system**: We wanted to replace the manual voting system at Strathmore University with a digital, censorship-resistant system. It was quite buggy but we pitched it to the Student Council. You can find the repo [here](https://github.com/M-Waweru/truffledapping)
+I led the team from concept to **product-market fit** within a year, scaling:
 
-* **Crowdsourcing identification of fake news on Twitter**: Fake news and misinformation cannot be solved by AI because misinformation is inherently an experiential and subjective thing. The idea was to use the Wisdom of the Crowds to decide what is true and what is false. You can find the repo [here](https://github.com/M-Waweru/Crowdsourcing-Ranking-of-Tweets)
+- **$250K+** in tips processed  
+- **4,000+ tippers** and **3,800+ service workers onboarded**  
+- **$4,500 MRR** by the time I left  
+- Over **5,500% growth in 2024**
 
+Shukran was incubated at [**Impact Africa Network**](https://impactafrica.network).
 
-### Passions
+---
 
-* **Journalling**: I have been doing it chronically since the start of the COVID-19 pandemic in 2020. Now I cannot stop and it has led to this blog.
+## 🔧 Projects
 
-* **Hiking**: Nothing beats a good mountain-climb and the euphoria of standing at the top to marvel at your accomplishment.
+### 🏨 [Shukran](https://shukran.co)
 
-* **Digital gardening**: Note-taking is great but it is useless if you don't reference them to take action. With digital gardening on [Obsidian](https://obsidian.md/), I have created notes that I reference from time to time to ground me on my mission and purpose. It has become a great idea factory where most of my blogs will come from. I have also shared some notes at the [Mathnuscripts](https://mathnuscripts.com). It contains draft essays that will eventually come here.
+The first startup I built end-to-end. I led product research, customer interviews, development (Django + React), GTM strategy, sales, and operations. This experience deeply shaped my approach to innovation and leadership.
 
+### 🌾 [Agrarian](https://strathmore.edu/news/enactus-strathmore-to-represent-kenya-in-the-enactus-global-competition-set-for-september/)
 
-### Philosophy
+An IoT agritech solution helping farmers make better decisions using environmental data. I served as **Project Manager and President of Enactus Strathmore**, and we represented Kenya at the **Enactus Global Competition**.
 
-> _For I do, so I must write. For I write, so I must do._
+### 🗳 Blockchain Voting System
 
-May this blog help you as much as it helps me.
+We built a censorship-resistant voting system to replace manual student elections at Strathmore University. The system was buggy, but the pitch to the Student Council was solid.  
+[View the repo →](https://github.com/M-Waweru/truffledapping)
 
-### Contact me
+### 📰 Crowdsourced Fake News Detection
+
+AI can’t solve misinformation because truth is often contextual and subjective. Our idea was to use collective human judgment ("Wisdom of the Crowd") to flag fake news on Twitter.  
+[View the repo →](https://github.com/M-Waweru/Crowdsourcing-Ranking-of-Tweets)
+
+---
+
+## ❤️ Passions
+
+- **Journaling:** I started journaling daily during the 2020 pandemic and haven’t stopped since. It grounds me, clarifies my thinking, and feeds my blog.
+- **Hiking:** Mountain peaks bring clarity. I live for the climb—and the stillness at the summit.
+- **Digital Gardening:** I use [Obsidian](https://obsidian.md/) to build a personal knowledge system I refer to constantly. My essays grow out of this soil and are shared at [Mathnuscripts](https://mathnuscripts.com).
+
+---
+
+## 🧭 Philosophy
+
+> _“For I do, so I must write. For I write, so I must do.”_
+
+May this blog serve you as much as it serves me.
+
+---
+
+## 📬 Contact
 
 [mathenge2waweru@gmail.com](mailto:mathenge2waweru@gmail.com)
